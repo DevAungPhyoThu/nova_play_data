@@ -7,10 +7,10 @@
       "video": "https://drive.google.com/file/d/1VhawitZYWyGS2MxrqyLC9l5vt3sBJ1w_/view?usp=drivesdk"
     },
     {
-      "id": "2",
-      "title": "My Second Movie",
-      "poster": "https://drive.google.com/thumbnail?id=1tlKU29X4SmzeB0UuhMIEDnz_ZfMmOMzU&sz=w600",
-      "video": "https://drive.google.com/file/d/1tlKU29X4SmzeB0UuhMIEDnz_ZfMmOMzU/view?usp=drivesdk"
+  "id": "2",
+  "title": "My Second Movie",
+  "poster": "https://drive.google.com/thumbnail?id=1tIKU29X4SmzEb0UuhMIEDnz_ZfMmoMzU&sz=w600",
+  "video": "https://drive.google.com/file/d/1tIKU29X4SmzEb0UuhMIEDnz_ZfMmoMzU/view?usp=drivesdk"
     }
   ]
 }
