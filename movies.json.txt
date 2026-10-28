@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "My First Movie",
+      "poster": "https://example.com/poster.jpg",
+      "video": "https://drive.google.com/file/d/1VhawitZYwyGS2MxrqyLC9I5vt3sBJ1w_/view?usp=drivesdk"
+    },
+    {
+      "id": "2",
+      "title": "My Second Movie",
+      "poster": "https://example.com/poster2.jpg",
+      "video": "https://drive.google.com/file/d/1tlKU29X4SmzeB0UuhMIEDnz_ZfMmOMzU/view?usp=drivesdk"
+    }
+  ]
+}
